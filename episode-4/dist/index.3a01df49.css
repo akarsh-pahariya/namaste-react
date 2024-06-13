@@ -1,0 +1,35 @@
+.logo {
+  width: 110px;
+  height: 90px;
+  padding-left: 5px;
+}
+
+.header {
+  border: 2px solid #000;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+  display: flex;
+}
+
+.logo-name {
+  display: flex;
+}
+
+.logo-name > h1 {
+  padding-left: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+}
+
+.nav-items > ul {
+  display: flex;
+}
+
+.item {
+  padding: 0 30px;
+  font-size: 25px;
+  font-weight: 550;
+  list-style: none;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */
